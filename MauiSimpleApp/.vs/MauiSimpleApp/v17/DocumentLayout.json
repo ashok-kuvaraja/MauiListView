@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|c:\\users\\ashokkuvaraja\\source\\repos\\mauisimpleapp\\mauisimpleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|solutionrelative:mauisimpleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|c:\\users\\ashokkuvaraja\\source\\repos\\mauisimpleapp\\mauisimpleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|solutionrelative:mauisimpleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|c:\\users\\ashokkuvaraja\\source\\repos\\mauisimpleapp\\mauisimpleapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D65A3A-DED9-437F-9A6C-E334CF607BA6}|MauiSimpleApp\\MauiSimpleApp.csproj|solutionrelative:mauisimpleapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 266,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\Model\\User.cs",
+              "RelativeDocumentMoniker": "MauiSimpleApp\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\Model\\User.cs",
+              "RelativeToolTip": "MauiSimpleApp\\Model\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:54:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiSimpleApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiSimpleApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:44:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiSimpleApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\AshokKuvaraja\\source\\repos\\MauiSimpleApp\\MauiSimpleApp\\MainPage.xaml",
+              "RelativeToolTip": "MauiSimpleApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-14T05:43:47.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
